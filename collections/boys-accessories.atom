@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://elmasclothing.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://elmasclothing.myshopify.com/collections/boys-accessories.atom"/>
+  <title>Elma&apos;s Clothing</title>
+  <updated>2020-05-07T07:41:54-04:00</updated>
+  <author>
+    <name>Elma&apos;s Clothing</name>
+  </author>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4446179721327</id>
+    <published>2020-05-07T07:41:54-04:00</published>
+    <updated>2020-05-07T07:41:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-silver-bow-tie-with-suspenders"/>
+    <title>Boys Silver Bow Tie with Suspenders</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-silver-bow-tie-with-suspenders-888083.jpg?v=1589008692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Specification</p>
+<ul>
+<li>Elastic Suspenders </li>
+<li>Satin Bow Tie </li>
+<li>Bow Tie Circumference 8-14 in. </li>
+<li>Suspender Leng. 15-23 in. </li>
+<li>Adjustable </li>
+<li>Age 6 Months-4 years</li>
+<li>Machine wash</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4446179721327</id>
+      <title>One Size</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4446065164399</id>
+    <published>2020-05-07T06:30:44-04:00</published>
+    <updated>2020-05-07T06:30:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-gold-black-suspenders-bow-tie"/>
+    <title>Boys Gold/ Black Suspenders &amp; Bow Tie</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-gold-black-suspenders-bow-tie-296380.jpg?v=1589008691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Specification</p>
+<ul>
+<li>Elastic Suspenders </li>
+<li>Satin Bow Tie </li>
+<li>Bow Tie Circumference 8-14 in. </li>
+<li>Suspender Leng. 15- 23 in. </li>
+<li>Adjustable 6M-4 years</li>
+<li>Machine wash</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4446065164399</id>
+      <title>One Size</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4446047043695</id>
+    <published>2020-05-07T06:30:44-04:00</published>
+    <updated>2020-05-07T06:30:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-bow-tie-suspenders-1"/>
+    <title>Boys Bow Tie &amp; Suspenders</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-bow-tie-suspenders-598373.jpg?v=1589008689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Specification</p>
+<ul>
+<li>Elastic Suspenders </li>
+<li>Satin Bow Tie </li>
+<li>Bow Tie Circumference 8-14 in. </li>
+<li>Suspender Leng. 15-23 in. </li>
+<li>Adjustable age 6M-4 Years</li>
+<li>Machine wash</li>
+<li>Imported </li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4446047043695</id>
+      <title>One Size</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4446038818927</id>
+    <published>2020-05-07T06:30:44-04:00</published>
+    <updated>2020-05-07T06:30:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-gold-color-bow-tie-suspenders"/>
+    <title>Boys Gold Color Bow Tie &amp; Suspenders</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-gold-color-bow-tie-suspenders-504847.jpg?v=1589008690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Specification</p>
+<ul>
+<li>Elastic Suspenders </li>
+<li>Satin Bow Tie </li>
+<li>Bow Tie Circumference 8-14 in. </li>
+<li>Suspender Leng. 15-23 in. </li>
+<li>Adjustable age 6M-4 years</li>
+<li>Machine wash</li>
+<li>Imported </li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4446038818927</id>
+      <title>One Size</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+</feed>

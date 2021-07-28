@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://elmasclothing.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://elmasclothing.myshopify.com/collections/pants.atom"/>
+  <title>Elma&apos;s Clothing</title>
+  <updated>2019-12-24T15:21:08-05:00</updated>
+  <author>
+    <name>Elma&apos;s Clothing</name>
+  </author>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4359420379247</id>
+    <published>2019-12-24T15:21:08-05:00</published>
+    <updated>2019-12-24T15:21:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-blue-pants-1"/>
+    <title>Boys Blue Pants</title>
+    <s:type>Boys Pant</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-blue-pants-681574.jpg?v=1587947416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>Boys Pant<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>DESCRIPTION</p>
+<div class="description" itemprop="description">
+<ul>
+<li>90 % Cotton</li>
+<li>10% Lycra</li>
+<li>Navy Blue Color</li>
+<li>4 Functional pockets</li>
+<li>Zipper Fly and Front Botton </li>
+<li>Straight Fit </li>
+<li>Elastic Waistband </li>
+<li>Machine Wash</li>
+<li>Imported</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby clothes</s:tag>
+    <s:tag>Boys Pant</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4359420379247</id>
+      <title>2-3years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4359420379247</id>
+      <title>4-5 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4359420379247</id>
+      <title>5-6 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4359420379247</id>
+      <title>6-7years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4359420379247</id>
+      <title>7-8 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4359420379247</id>
+      <title>8-9 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4359420379247</id>
+      <title>9-10 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4359420379247</id>
+      <title>10-11 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4359420379247</id>
+      <title>11-12 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3448766791780</id>
+    <published>2019-05-07T11:50:40-04:00</published>
+    <updated>2019-05-07T11:50:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/light-blue-boys-pants"/>
+    <title>Boys&apos; Pants</title>
+    <s:type>Baby pant</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/light-blue-boys-pants-343060.jpg?v=1587947570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>Baby pant<br>
+        <strong>Price: </strong>
+            10.00 - 11.00
+            <a href="https://elmasclothing.myshopify.com/products/light-blue-boys-pants">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<h3>DESCRIPTION</h3>
+<ul>
+<li>Cotton Blend </li>
+<li> Blue Color</li>
+<li>Light &amp; Soft Fabric </li>
+<li>Four Functional pockets</li>
+<li>Zipper Fly and Front Botton </li>
+<li>Slim Fit </li>
+<li>Adjustable Elastic Waist Band </li>
+<li>Sizes 2-11years </li>
+<li>Machine Wash</li>
+<li>Imported</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby apnt</s:tag>
+    <s:tag>boys pant</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3448766791780</id>
+      <title>1-2years</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3448766791780</id>
+      <title>6-7years</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3448766791780</id>
+      <title>7-8years</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3448766791780</id>
+      <title>8-9years</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3448766791780</id>
+      <title>9-10 years</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3448766791780</id>
+      <title>10-11 years</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3329677361252</id>
+    <published>2019-04-15T01:05:02-04:00</published>
+    <updated>2019-04-15T01:05:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-soft-tan-pants"/>
+    <title>Boys Soft Khaki Color Pants</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-soft-khaki-color-pants-403276.jpg?v=1587947416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Details</p>
+<ul>
+<li>Cotton Blend </li>
+<li> Tan Color</li>
+<li>Soft and Light Fabric </li>
+<li>Four Fuctional pockets</li>
+<li>Zipper Fly and Front Button </li>
+<li>Slim Fit </li>
+<li>Adjustable Elastic Waist Band </li>
+<li>Sizes 2-11years</li>
+<li>Machine Wash</li>
+<li>Imported</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3329677361252</id>
+      <title>1-2T</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3329419935844</id>
+    <published>2019-04-14T23:52:48-04:00</published>
+    <updated>2019-04-14T23:52:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-blue-pants"/>
+    <title>Boys Blue Pants</title>
+    <s:type>Pants</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-blue-pants-102733.jpg?v=1587947423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>Pants<br>
+        <strong>Price: </strong>
+            10.00 - 11.00
+            <a href="https://elmasclothing.myshopify.com/products/boys-blue-pants">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><strong>Our Kids Blue Pants </strong></em>are made of premium fabric which will give you a comfortable and perfect feeling when you put them on. A slim fit with a slight elastic waistband makes these super-soft pants very comfortable even when working all day. Match them with one of our boys' pants to show off some of your classic looks.<br></p>
+<h3>
+<em><strong>Specification</strong></em>:</h3>
+<ul>
+<li>Cotton Blend </li>
+<li>Light and Soft Fabric </li>
+<li>4 Functional pockets</li>
+<li>Zipper Fly and Front Botton </li>
+<li>Slim Fit </li>
+<li>Adjustable Elastic Waist Band </li>
+<li>Sizes 2-11 years </li>
+<li>Machine Wash</li>
+<li>Imported</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boys Blue Pants</s:tag>
+    <s:tag>kids jans pant</s:tag>
+    <s:tag>Pants</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3329419935844</id>
+      <title>1-2years</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3329419935844</id>
+      <title>4-5years</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3329419935844</id>
+      <title>5-6years</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3329419935844</id>
+      <title>8-9years</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3329419935844</id>
+      <title>9-10years</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3329419935844</id>
+      <title>2-3 years</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3107772170340</id>
+    <published>2019-03-19T01:58:05-04:00</published>
+    <updated>2019-03-19T01:58:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-gray-pants"/>
+    <title>Boys Light Gray Pants</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-light-gray-pants-116431.jpg?v=1587947397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<h3>DESCRIPTION</h3>
+<ul>
+<li>90 % Cotton</li>
+<li>10% lycra</li>
+<li>Light Gray Color</li>
+<li>Straight Fit </li>
+<li>4 Functional Pockets </li>
+<li>Zipper Fly with Front Button</li>
+<li>Machine Wash</li>
+<li>Imported</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3107772170340</id>
+      <title>4-5 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3107772170340</id>
+      <title>9-10 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3107772170340</id>
+      <title>10-11 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3107772170340</id>
+      <title>11-12 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3069772955748</id>
+    <published>2019-03-15T12:49:22-04:00</published>
+    <updated>2019-03-15T12:49:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/dark-navy-blue-pants"/>
+    <title>Dark Navy Blue Pants</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/dark-navy-blue-pants-553684.jpg?v=1587947469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>DESCRIPTION</h3>
+<div class="description" itemprop="description">
+<ul>
+<li>90 % Cotton</li>
+<li>10% Lycra</li>
+<li>Navy Blue Color</li>
+<li>4 Functional pockets</li>
+<li>Zipper Fly and Front Botton </li>
+<li>Straight Fit </li>
+<li>Elastic Waistband </li>
+<li>Machine Wash</li>
+<li>Imported</li>
+</ul>
+<p><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3069772955748</id>
+      <title>9-10years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3069772955748</id>
+      <title>7-8 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3069772955748</id>
+      <title>8-9 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3069772955748</id>
+      <title>11-12 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3069772955748</id>
+      <title>10-11 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3066408599652</id>
+    <published>2019-03-15T04:58:47-04:00</published>
+    <updated>2019-03-15T04:58:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/gray-pants"/>
+    <title>Boys Grey Pants</title>
+    <s:type>Pants</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-grey-pants-128316.jpg?v=1587947404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>Pants<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><strong></strong></em><em><strong>Specification:</strong></em></p>
+<ul>
+<li>90 % Cotton</li>
+<li>10% lycra</li>
+<li>Durable Fabric </li>
+<li>4 functional pockets</li>
+<li>Zipper Fly and Front Botton </li>
+<li>Adjustable Elastic Waist Band </li>
+<li>Regular fit</li>
+<li>Sizes 4-12 years </li>
+<li>Machine Wash</li>
+<li>Imported</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boys Grey Pants</s:tag>
+    <s:tag>Kids gry cotton pant</s:tag>
+    <s:tag>Pants</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3066408599652</id>
+      <title>3-4years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3066408599652</id>
+      <title>4-5years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3066408599652</id>
+      <title>7-8years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3066408599652</id>
+      <title>8-9years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3066408599652</id>
+      <title>9-10years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3066408599652</id>
+      <title>10-11years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3066408599652</id>
+      <title>11-12years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3066408599652</id>
+      <title>2-3 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3066265043044</id>
+    <published>2019-03-15T04:31:35-04:00</published>
+    <updated>2019-03-15T04:31:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-pants"/>
+    <title>Boy&apos;s Pants Dark Gray</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-pants-dark-gray-674244.jpg?v=1587947372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span>DESCRIPTION</span></h3>
+<ul>
+<li>90 % Cotton</li>
+<li>10% lycra</li>
+<li>Dark Gray Color</li>
+<li>Zipper Fly with Front Button</li>
+<li>4 Functional pockets</li>
+<li>Straight Fit </li>
+<li>Adjustable waistband </li>
+<li>Machine Wash</li>
+<li>Imported</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3066265043044</id>
+      <title>2-3 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3066265043044</id>
+      <title>3-4years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3066265043044</id>
+      <title>4-5years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3066265043044</id>
+      <title>6-7 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3066265043044</id>
+      <title>7-8 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3066265043044</id>
+      <title>8-9 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3066265043044</id>
+      <title>9-10 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3066265043044</id>
+      <title>10-11 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3066265043044</id>
+      <title>11-12 years</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

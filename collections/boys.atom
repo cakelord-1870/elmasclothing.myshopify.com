@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://elmasclothing.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://elmasclothing.myshopify.com/collections/boys.atom"/>
+  <title>Elma&apos;s Clothing</title>
+  <updated>2021-01-09T05:42:09-05:00</updated>
+  <author>
+    <name>Elma&apos;s Clothing</name>
+  </author>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4614245646447</id>
+    <published>2021-01-09T05:42:09-05:00</published>
+    <updated>2021-01-09T05:42:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-knitted-4-piece-set"/>
+    <title>Boys Knitted 4 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9354.jpg?v=1610188930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            41.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Specification:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">4 Piece Set<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Long Sleeve buttondown shirt </li>
+<li data-mce-fragment="1"> Button Down Sweater </li>
+<li data-mce-fragment="1">Pants &amp; Knitted Hat</li>
+<li data-mce-fragment="1">Sizes 9M-2 years </li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4614245646447</id>
+      <title>6-9 months</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4614245646447</id>
+      <title>9-12 months</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4614245646447</id>
+      <title>18-24 months</title>
+      <s:price currency="USD">41.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4614237257839</id>
+    <published>2021-01-09T05:38:11-05:00</published>
+    <updated>2021-01-09T05:38:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-3-pice-set"/>
+    <title>Boys 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9347.jpg?v=1610188693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Specification:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">3 Piece Set<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Long Sleeve buttondown shirt </li>
+<li data-mce-fragment="1">Zip Front Sweater </li>
+<li data-mce-fragment="1">Navy Pants </li>
+<li data-mce-fragment="1">Sizes 9M-2 years </li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4614237257839</id>
+      <title>6-9 Months</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4589448790127</id>
+    <published>2020-11-24T11:44:03-05:00</published>
+    <updated>2020-11-24T11:44:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/long-sleeve"/>
+    <title>Long Sleeve</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9198.jpg?v=1606236145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATIONS</strong></h2>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">95% cotton</li>
+<li data-mce-fragment="1">5% Polyester </li>
+<li data-mce-fragment="1">Long Sleeves</li>
+<li data-mce-fragment="1">Crew Neck</li>
+<li data-mce-fragment="1">Sizes 1-5 years </li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589448790127</id>
+      <title>9-12 months / royal blue</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589448790127</id>
+      <title>9-12 months / gray</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589448790127</id>
+      <title>1-2 years / royal blue</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589448790127</id>
+      <title>1-2 years / gray</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589448790127</id>
+      <title>2-3 years / royal blue</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589448790127</id>
+      <title>2-3 years / gray</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589448790127</id>
+      <title>3-4 years / royal blue</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589448790127</id>
+      <title>3-4 years / gray</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589448790127</id>
+      <title>4-5 years / royal blue</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589448790127</id>
+      <title>4-5 years / gray</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4589442367599</id>
+    <published>2020-11-24T11:33:41-05:00</published>
+    <updated>2020-11-24T11:33:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boston-tees"/>
+    <title>Boston Tees</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9283.jpg?v=1606235591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATIONS</strong></h2>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">95% cotton</li>
+<li data-mce-fragment="1">5% Polyester </li>
+<li data-mce-fragment="1">Long Sleeves</li>
+<li data-mce-fragment="1">Crew Neck</li>
+<li data-mce-fragment="1">Sizes 1-5 years </li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589442367599</id>
+      <title>9-12 months</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589442367599</id>
+      <title>1-2 years</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589442367599</id>
+      <title>2-3 years</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589442367599</id>
+      <title>3-4 years</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589442367599</id>
+      <title>4-5 years</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4589435453551</id>
+    <published>2020-11-24T11:13:07-05:00</published>
+    <updated>2020-11-24T11:13:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-long-sleeve-boston-t-shirt"/>
+    <title>Boys Long Sleeve Boston T-shirt</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9196.jpg?v=1606234118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATIONS</strong></h2>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">95% cotton</li>
+<li data-mce-fragment="1">5% Polyester </li>
+<li data-mce-fragment="1">Long Sleeves</li>
+<li data-mce-fragment="1">Crew Neck</li>
+<li data-mce-fragment="1">Sizes 9M-5years </li>
+<li data-mce-fragment="1">Shoulder Snaps</li>
+<li data-mce-fragment="1">Soft Fabric</li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589435453551</id>
+      <title>9-12 months / red</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589435453551</id>
+      <title>9-12 months / green</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589435453551</id>
+      <title>1-2 years / green</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589435453551</id>
+      <title>2-3 years / red</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589435453551</id>
+      <title>2-3 years / green</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589435453551</id>
+      <title>3-4 years / red</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589435453551</id>
+      <title>3-4 years / green</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589435453551</id>
+      <title>4-5 years / red</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4589432307823</id>
+    <published>2020-11-24T10:52:44-05:00</published>
+    <updated>2020-11-24T10:52:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/goal-red-t-shirt-long-sleeve"/>
+    <title>Goal Red T-shirt Long Sleeve</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9205.jpg?v=1606233149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATIONS</strong></h2>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">95% cotton</li>
+<li data-mce-fragment="1">5% Polyester </li>
+<li data-mce-fragment="1">Long Sleeves</li>
+<li data-mce-fragment="1">Crew Neck</li>
+<li data-mce-fragment="1">Sizes 6M-3years </li>
+<li data-mce-fragment="1">Shoulder Snaps</li>
+<li data-mce-fragment="1">Soft Fabric</li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589432307823</id>
+      <title>6-9 months</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589432307823</id>
+      <title>9-12 months</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4589431980143</id>
+    <published>2020-11-24T10:50:54-05:00</published>
+    <updated>2020-11-24T10:50:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-blue-goal-t-shirt"/>
+    <title>Boys Blue Goal T-shirt</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9276copy.jpg?v=1606232994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATIONS</strong></h2>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">95% cotton</li>
+<li data-mce-fragment="1">5% Polyester </li>
+<li data-mce-fragment="1">Long Sleeves</li>
+<li data-mce-fragment="1">Crew Neck</li>
+<li data-mce-fragment="1">Sizes 6M-3years </li>
+<li data-mce-fragment="1">Shoulder Snaps</li>
+<li data-mce-fragment="1">Soft Fabric</li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589431980143</id>
+      <title>6-9 months / blue</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589431980143</id>
+      <title>6-9 months / light brown</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589431980143</id>
+      <title>9-12 months / blue</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589431980143</id>
+      <title>9-12 months / light brown</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4589429653615</id>
+    <published>2020-11-24T10:42:56-05:00</published>
+    <updated>2020-11-24T10:42:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/goal-long-sleeve-t-shirt"/>
+    <title>Goal Long Sleeve T-shirt</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9247.jpg?v=1606232431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATIONS</strong></h2>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">95% cotton</li>
+<li data-mce-fragment="1">5% Polyester </li>
+<li data-mce-fragment="1">Long Sleeves</li>
+<li data-mce-fragment="1">Crew Neck</li>
+<li data-mce-fragment="1">Sizes 6M-3years </li>
+<li data-mce-fragment="1">Shoulder Snaps</li>
+<li data-mce-fragment="1">Soft Fabric</li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589429653615</id>
+      <title>6-9 months / Green</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589429653615</id>
+      <title>6-9 months / Gray</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589429653615</id>
+      <title>9-12 months / Green</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589429653615</id>
+      <title>9-12 months / Gray</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589429653615</id>
+      <title>1-2 years / Gray</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589429653615</id>
+      <title>2-3 years / Gray</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4589425459311</id>
+    <published>2020-11-24T10:11:47-05:00</published>
+    <updated>2020-11-24T10:11:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/super-cool-t-shirt"/>
+    <title>Super Cool T-shirt</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9186.jpg?v=1606230690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATIONS</strong></h2>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">95% cotton</li>
+<li data-mce-fragment="1">5% Polyester </li>
+<li data-mce-fragment="1">Long Sleeves</li>
+<li data-mce-fragment="1">Crew Neck</li>
+<li data-mce-fragment="1">Sizes 6M-3years </li>
+<li data-mce-fragment="1">Shoulder Snaps</li>
+<li data-mce-fragment="1">Soft Fabric</li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589425459311</id>
+      <title>6-9 months / red</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589425459311</id>
+      <title>6-9 months / light brown</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589425459311</id>
+      <title>9-12 months / red</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589425459311</id>
+      <title>9-12 months / light brown</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589425459311</id>
+      <title>1-2 years / red</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589425459311</id>
+      <title>1-2 years / light brown</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589425459311</id>
+      <title>2-3 years / red</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589425459311</id>
+      <title>2-3 years / light brown</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4589424312431</id>
+    <published>2020-11-24T10:04:13-05:00</published>
+    <updated>2020-11-24T10:04:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-red-long-sleeve-t-shirt"/>
+    <title>Boys Red Long Sleeve T-shirt</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9187copy.jpg?v=1606230169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATIONS</strong></h2>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">95% cotton</li>
+<li data-mce-fragment="1">5% Polyester </li>
+<li data-mce-fragment="1">Long Sleeves</li>
+<li data-mce-fragment="1">Crew Neck</li>
+<li data-mce-fragment="1">Sizes 1-4 years </li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589424312431</id>
+      <title>9-12 months</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589424312431</id>
+      <title>1-2 years</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589424312431</id>
+      <title>2-3 years</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4589421985903</id>
+    <published>2020-11-24T09:57:42-05:00</published>
+    <updated>2020-11-24T09:57:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-long-sleeve-top-1"/>
+    <title>Boys Long Sleeve Top</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9259_edited-2.jpg?v=1606229779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATIONS</strong></h2>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">95% cotton</li>
+<li data-mce-fragment="1">5% Polyester </li>
+<li data-mce-fragment="1">Long Sleeves</li>
+<li data-mce-fragment="1">Crew Neck</li>
+<li data-mce-fragment="1">Sizes 6M-3  years </li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589421985903</id>
+      <title>6-9 months</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589421985903</id>
+      <title>9-12 months</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589421985903</id>
+      <title>2-3 years</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4589417889903</id>
+    <published>2020-11-24T09:28:31-05:00</published>
+    <updated>2020-11-24T09:28:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/long-sleeve-t-shirt-1"/>
+    <title>Long Sleeve T-shirt</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9207.jpg?v=1606228092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATIONS</strong></h2>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">95% cotton</li>
+<li data-mce-fragment="1">5% Polyester </li>
+<li data-mce-fragment="1">Long Sleeves</li>
+<li data-mce-fragment="1">Crew Neck</li>
+<li data-mce-fragment="1">Sizes 1-6 years </li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589417889903</id>
+      <title>9-12 months</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589417889903</id>
+      <title>3-4 years</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589417889903</id>
+      <title>4-5 years</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4589412745327</id>
+    <published>2020-11-24T09:00:07-05:00</published>
+    <updated>2020-11-24T09:00:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/hard-easy-t-shirt"/>
+    <title>Hard Easy T-shirt</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9185.jpg?v=1606226396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATIONS</strong></h2>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">95% cotton</li>
+<li data-mce-fragment="1">5% Polyester </li>
+<li data-mce-fragment="1">Long Sleeves</li>
+<li data-mce-fragment="1">Crew Neck</li>
+<li data-mce-fragment="1">Sizes 16M-3 years </li>
+<li data-mce-fragment="1">Shoulder Snaps</li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589412745327</id>
+      <title>6-9 months</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589412745327</id>
+      <title>9-12 months</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589412745327</id>
+      <title>1-2 years</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4589410615407</id>
+    <published>2020-11-24T08:48:32-05:00</published>
+    <updated>2020-11-24T08:48:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/wonder-brother-t-shirt"/>
+    <title>Wonder Brother T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9273copy.jpg?v=1606225678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATIONS</strong></h2>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">95% cotton</li>
+<li data-mce-fragment="1">5% Polyester </li>
+<li data-mce-fragment="1">Long Sleeves</li>
+<li data-mce-fragment="1">Crew Neck</li>
+<li data-mce-fragment="1">Sizes 1-5 years </li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589410615407</id>
+      <title>9-12 months</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4589408911471</id>
+    <published>2020-11-24T08:39:39-05:00</published>
+    <updated>2020-11-24T08:39:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/best-brother-t-shirt"/>
+    <title>Best Brother T-shirt</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9201copy.jpg?v=1606225102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATIONS</strong></h2>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">95% cotton</li>
+<li data-mce-fragment="1">5% Polyester </li>
+<li data-mce-fragment="1">Long Sleeves</li>
+<li data-mce-fragment="1">Crew Neck</li>
+<li data-mce-fragment="1">Sizes 1-3 years </li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589408911471</id>
+      <title>9-12 months</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4589408911471</id>
+      <title>2-3 years</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4578074427503</id>
+    <published>2020-10-22T02:52:56-04:00</published>
+    <updated>2020-10-22T02:52:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-t-shirt-long-sleeve"/>
+    <title>Boys T-shirt Long Sleeve</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9011.jpg?v=1603349575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATIONS</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Cotton  blend</li>
+<li data-mce-fragment="1">Long sleeves</li>
+<li data-mce-fragment="1">Rib trim neckline and cuffs</li>
+<li data-mce-fragment="1">Shoulder Snaps<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578074427503</id>
+      <title>3-6 months / gray</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578074427503</id>
+      <title>3-6 months / blue</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578074427503</id>
+      <title>9-12 months / blue</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578074427503</id>
+      <title>12-18 months / gray</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578074427503</id>
+      <title>12-18 months / blue</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578074427503</id>
+      <title>18-24 months / gray</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4578070265967</id>
+    <published>2020-10-22T02:38:11-04:00</published>
+    <updated>2020-10-22T02:38:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-long-sleeve-top"/>
+    <title>Boys Long Sleeve Top</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_8997.jpg?v=1603348692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATIONS</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Cotton  blend</li>
+<li data-mce-fragment="1">Long sleeves</li>
+<li data-mce-fragment="1">Rib trim neckline and cuffs</li>
+<li data-mce-fragment="1">Shoulder Snaps<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578070265967</id>
+      <title>3-6 months / Navy Blue</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578070265967</id>
+      <title>9-12 months / Blue</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578070265967</id>
+      <title>9-12 months / Navy Blue</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578070265967</id>
+      <title>12-18 months / White</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578070265967</id>
+      <title>12-18 months / Blue</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578070265967</id>
+      <title>12-18 months / Navy Blue</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578070265967</id>
+      <title>18-24 months / White</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578070265967</id>
+      <title>18-24 months / Blue</title>
+      <s:price currency="USD">8.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4578061811823</id>
+    <published>2020-10-22T02:20:55-04:00</published>
+    <updated>2020-10-22T02:20:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-t-shirt"/>
+    <title>Boys T-shirt</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9018.jpg?v=1603347786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"> <strong data-mce-fragment="1">SPECIFICATIONS</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Cotton  blend</li>
+<li data-mce-fragment="1">Long sleeves</li>
+<li data-mce-fragment="1">Rib trim neckline and cuffs</li>
+<li data-mce-fragment="1">Shoulder Snaps<br>
+</li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578061811823</id>
+      <title>3-6 months / white</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578061811823</id>
+      <title>3-6 months / blue</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578061811823</id>
+      <title>3-6 months / red</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578061811823</id>
+      <title>9-12 months / white</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578061811823</id>
+      <title>9-12 months / blue</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578061811823</id>
+      <title>9-12 months / red</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578061811823</id>
+      <title>12-18 months / white</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578061811823</id>
+      <title>12-18 months / blue</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578061811823</id>
+      <title>12-18 months / red</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578061811823</id>
+      <title>18-24 months / white</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578061811823</id>
+      <title>18-24 months / blue</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4578061811823</id>
+      <title>18-24 months / red</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4577434927215</id>
+    <published>2020-10-20T22:01:39-04:00</published>
+    <updated>2020-10-20T22:01:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/long-sleeve-boys-3-piece-set"/>
+    <title>Long Sleeve Boys 3 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_8828_edited-1.jpg?v=1603245700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATION:</strong></h3>
+<ul data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">3 Piece set </li>
+<li data-mce-fragment="1">Long Sleeve Sweatshirt </li>
+<li data-mce-fragment="1">Pants &amp; Button Down Shirt </li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported</li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4577434927215</id>
+      <title>3-4 years / yellow</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4577434927215</id>
+      <title>4-5 years / blue</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4577434927215</id>
+      <title>4-5 years / yellow</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4577434927215</id>
+      <title>5-6 years / blue</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4561449943151</id>
+    <published>2020-09-14T23:52:27-04:00</published>
+    <updated>2020-09-14T23:52:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-bear-set"/>
+    <title>Boys Bear Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_8263_edited-1.jpg?v=1624639160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Specifications </p>
+<ul>
+<li>3 Piece Set</li>
+<li>97% Cotton</li>
+<li>Button down Shirt</li>
+<li>Light Sweater </li>
+<li>Pants with Adjustable Waistline </li>
+<li>Runs Small order one size up</li>
+<li>Machine wash</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4561449943151</id>
+      <title>9-12 months / red</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4561449943151</id>
+      <title>9-12 months / gray</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4561449943151</id>
+      <title>12-18 months / red</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4561449943151</id>
+      <title>12-18 months / gray</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4561449943151</id>
+      <title>18-24 months / gray</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4561438441583</id>
+    <published>2020-09-14T23:21:51-04:00</published>
+    <updated>2020-09-14T23:21:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-3-piece-long-sleeve-set"/>
+    <title>Boys 3 Piece Long Sleeve  Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_8242.jpg?v=1600140112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Specifications</p>
+<ul>
+<li>3 Piece Set</li>
+<li>97% Cotton </li>
+<li>Long Sleeve Shirt </li>
+<li>Long Sleeve Hoodie </li>
+<li>Jeans with Adjustable Waistline </li>
+<li>Runs Small, order one size up for better fit</li>
+<li>Machine wash</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4561438441583</id>
+      <title>6-9 months / Gray</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4561438441583</id>
+      <title>6-9 months / Green</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4561438441583</id>
+      <title>9-12 months / blue</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4561438441583</id>
+      <title>12-18 months / Green</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4561438441583</id>
+      <title>12-18 months / blue</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4561438441583</id>
+      <title>12-18 months / Gray</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4561438441583</id>
+      <title>18-24 months / blue</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4559393783919</id>
+    <published>2020-09-10T11:59:06-04:00</published>
+    <updated>2020-09-10T11:59:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-4-piece-set-2"/>
+    <title>Boys 4 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_8087.jpg?v=1599753546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Specifications </p>
+<ul>
+<li>4 Piece Set </li>
+<li>97% Cotton</li>
+<li>3 % Polyester</li>
+<li>Pants with Front Button</li>
+<li>Botton Down Shirt </li>
+<li>Bow Tie &amp; Vest <br>
+</li>
+<li>Runs Small order one size up</li>
+<li>Machine wash</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4559393783919</id>
+      <title>18-24 months / brown</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4559393783919</id>
+      <title>18-24 months / blue</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4519724941423</id>
+    <published>2020-08-06T02:38:33-04:00</published>
+    <updated>2020-08-06T02:38:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/little-boys-top-bottom-set"/>
+    <title>Boys Top &amp; Bottom Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_7434.jpg?v=1596695914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Specification:</strong></p>
+<ul>
+<li>Cotton Blend </li>
+<li>2 piece set</li>
+<li> Sweatshirt &amp; Pants</li>
+<li>Long Sleeve </li>
+<li>Round Neck</li>
+<li>Machine Wash</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4519724941423</id>
+      <title>1-2 years / Navy Blue</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4519724941423</id>
+      <title>2-3 years / Gray</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4519721664623</id>
+    <published>2020-08-06T02:32:02-04:00</published>
+    <updated>2020-08-06T02:32:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/little-explorer-outfit-top-and-bottom"/>
+    <title>Little Explorer Outfit Top And Bottom</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_7498.jpg?v=1596695523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Specification:</strong></p>
+<ul>
+<li>Cotton Blend </li>
+<li>2 piece set</li>
+<li> Sweatshirt &amp; Pants</li>
+<li>Long Sleeve </li>
+<li>Round Neck</li>
+<li>Machine Wash</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4519721664623</id>
+      <title>6-9 months</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4519721664623</id>
+      <title>9-12 months</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4519721664623</id>
+      <title>12-18 months</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4519721664623</id>
+      <title>18-24 months</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4518110429295</id>
+    <published>2020-08-04T23:58:15-04:00</published>
+    <updated>2020-08-04T23:58:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/long-sleeve-sweatshirt-pants"/>
+    <title>Long Sleeve Sweatshirt &amp; Pants</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_7460.jpg?v=1596599895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Specification:</strong></p>
+<ul>
+<li>Cotton Blend </li>
+<li>2 piece set</li>
+<li> Sweatshirt &amp; Pants</li>
+<li>Long Sleeve </li>
+<li>Round Neck</li>
+<li>Machine Wash</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4518110429295</id>
+      <title>6-9 months</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4518110429295</id>
+      <title>9-12 months</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4518110429295</id>
+      <title>12-18 months</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4518110429295</id>
+      <title>18-24 months</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

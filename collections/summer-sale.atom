@@ -1,0 +1,2381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://elmasclothing.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://elmasclothing.myshopify.com/collections/summer-sale.atom"/>
+  <title>Elma&apos;s Clothing</title>
+  <updated>2020-03-31T01:07:56-04:00</updated>
+  <author>
+    <name>Elma&apos;s Clothing</name>
+  </author>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4406598074479</id>
+    <published>2020-03-31T01:07:56-04:00</published>
+    <updated>2020-03-31T01:07:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-short-sleeve-polo-shirt"/>
+    <title>Boys&apos; Short Sleeve Polo Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-short-sleeve-polo-shirt-270972.jpg?v=1587947423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h2><strong>SPECIFICATIONS</strong></h2>
+<ul>
+<li>100 % Cotton</li>
+<li>Short Sleeves </li>
+<li>Ribbed Color </li>
+<li>Three-Button Placket </li>
+<li>Sizes 1-7 years </li>
+<li>Machine Washable</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4406598074479</id>
+      <title>1-2 years</title>
+      <s:price currency="USD">9.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4406598074479</id>
+      <title>2-3 years</title>
+      <s:price currency="USD">9.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4406598074479</id>
+      <title>3-4 years</title>
+      <s:price currency="USD">9.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4406598074479</id>
+      <title>4-5 years</title>
+      <s:price currency="USD">9.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4406598074479</id>
+      <title>5-6 years</title>
+      <s:price currency="USD">9.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4406598074479</id>
+      <title>6-7 years</title>
+      <s:price currency="USD">9.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4406595387503</id>
+    <published>2020-03-30T23:13:29-04:00</published>
+    <updated>2020-03-30T23:13:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-yellow-polo-shirt"/>
+    <title>Boys Yellow Polo Shirt</title>
+    <s:type>Baby&apos;s Shirt</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-yellow-polo-shirt-659278.jpg?v=1587947399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>Baby&#39;s Shirt<br>
+        <strong>Price: </strong>
+            9.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h2><strong>SPECIFICATIONS</strong></h2>
+<ul>
+<li>100 % Cotton</li>
+<li>Short Sleeves </li>
+<li>Ribbed Color </li>
+<li>Three-Button Placket </li>
+<li>Sizes 1-7 years </li>
+<li>Machine Washable</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boys apparel</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4406595387503</id>
+      <title>1-2 Years</title>
+      <s:price currency="USD">9.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4406595387503</id>
+      <title>2-3 Years</title>
+      <s:price currency="USD">9.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4406595387503</id>
+      <title>3-4 years</title>
+      <s:price currency="USD">9.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4406595387503</id>
+      <title>4-5 years</title>
+      <s:price currency="USD">9.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4406595387503</id>
+      <title>5-6 years</title>
+      <s:price currency="USD">9.70</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4391938719855</id>
+    <published>2020-02-28T02:27:45-05:00</published>
+    <updated>2020-02-28T02:27:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/elmas-clothing-boys-short-sleeves-polo-shirts"/>
+    <title>Elma&apos;s Clothing Boys Short Sleeves Polo Shirts</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/elmas-clothing-boys-short-sleeves-polo-shirts-876282.jpg?v=1587947483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>Shirt<br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> <strong>SPECIFICATION:</strong></p>
+<ul>
+<li>100 % Cotton</li>
+<li>Short Sleeves </li>
+<li>Ribbed Color </li>
+<li>Three-Button Placket </li>
+<li>Sizes 1-7 years </li>
+<li>Machine Washable</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby clothes</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4391938719855</id>
+      <title>3-4 Years</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4391938719855</id>
+      <title>4-5 Years</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4391938719855</id>
+      <title>1-2 Years</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4391938719855</id>
+      <title>6-7 Years</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3488933609572</id>
+    <published>2019-05-16T18:13:14-04:00</published>
+    <updated>2019-05-16T18:13:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/baby-girls-heart-set"/>
+    <title>Baby Girls Top and Bottom Set</title>
+    <s:type>Baby Girl Cloth</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/baby-girls-top-and-bottom-set-860560.jpg?v=1596551289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>Baby Girl Cloth<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p><strong>Specifications</strong></p>
+<ul>
+<li>Two-piece set</li>
+<li>Short-Sleeve Top </li>
+<li>Leggings</li>
+<li>Ages 9-24 M</li>
+<li>Cotton Blend<br>
+</li>
+<li>Machine wash</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby</s:tag>
+    <s:tag>baby apparel</s:tag>
+    <s:tag>baby clothes</s:tag>
+    <s:tag>baby girl</s:tag>
+    <s:tag>Baby Girls&apos; Heart Set</s:tag>
+    <s:tag>baby top</s:tag>
+    <s:tag>girls apparel</s:tag>
+    <s:tag>Girls Leggings</s:tag>
+    <s:tag>Girls T-shirt</s:tag>
+    <s:tag>Girls&apos; Heart Set</s:tag>
+    <s:tag>Heart Set</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>kids clothing</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3488933609572</id>
+      <title>6-9 months / white</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3488933609572</id>
+      <title>6-9 months / gray</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3488933609572</id>
+      <title>6-9 months / pink</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3488933609572</id>
+      <title>9-12months / white</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3488933609572</id>
+      <title>9-12months / gray</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3488933609572</id>
+      <title>9-12months / pink</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3488933609572</id>
+      <title>12-18 months / white</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3488933609572</id>
+      <title>12-18 months / gray</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3488933609572</id>
+      <title>12-18 months / pink</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3488933609572</id>
+      <title>18-24 months / gray</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3488933609572</id>
+      <title>18-24 months / pink</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+    <published>2019-05-15T15:36:56-04:00</published>
+    <updated>2019-05-15T15:36:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-save-the-sea-t-shirt"/>
+    <title>Boys&apos; Save The Sea T-shirt</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-save-the-sea-t-shirt-623767.jpg?v=1587947421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SPECIFICATIONS</strong><br></p>
+<ul>
+<li>90% cotton </li>
+<li>10% polyester </li>
+<li>Short Sleeves</li>
+<li>Crew neck</li>
+<li>Graphic design </li>
+<li>Sizes 5-8 years</li>
+<li>Machine wash</li>
+<li>Imported</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boys cotton tshirt</s:tag>
+    <s:tag>Boys Tees</s:tag>
+    <s:tag>summer t-shirt</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>4-5years / green</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>4-5years / yellow</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>4-5years / red</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>4-5years / light blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>4-5years / blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>4-5years / royal blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>5-6years / yellow</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>5-6years / red</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>5-6years / light blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>5-6years / blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>6-7years / green</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>6-7years / yellow</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>6-7years / red</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>6-7years / light blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>6-7years / royal blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>7-8years / yellow</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>7-8years / red</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>7-8years / light blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3485174956132</id>
+      <title>7-8years / blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3483918008420</id>
+    <published>2019-05-15T04:30:02-04:00</published>
+    <updated>2019-05-15T04:30:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/girly-rock-tees"/>
+    <title>Girly Rock T-shirt</title>
+    <s:type>Baby T-shirt</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/girly-rock-t-shirt-888453.jpg?v=1587947612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>Baby T-shirt<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SPECIFICATIONS</strong></p>
+<ul>
+<li>90% cotton</li>
+<li>10% Polyester </li>
+<li>High Low Top with Short Sleeves </li>
+<li>Crew Neck</li>
+<li>Embellished with black Beads </li>
+<li>Sizes 5-8 years</li>
+<li>Machine wash</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby T-shirt</s:tag>
+    <s:tag>girls apparel</s:tag>
+    <s:tag>Girls T-shirt</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483918008420</id>
+      <title>4-5years</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483918008420</id>
+      <title>5-6years</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483918008420</id>
+      <title>7-8years</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3483286470756</id>
+    <published>2019-05-14T21:57:43-04:00</published>
+    <updated>2019-05-14T21:57:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/my-name-is-awsome-t-shirt"/>
+    <title>Girls&apos; T-shirt Short Sleeve</title>
+    <s:type>Baby T-shirt</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/girls-t-shirt-short-sleeve-372082.jpg?v=1587947581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>Baby T-shirt<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><strong></strong></em><strong>SPECIFICATIONS</strong></p>
+<ul>
+<li>90% cotton</li>
+<li>10% Polyester </li>
+<li>Short Sleeves</li>
+<li>Round neckline</li>
+<li>Sizes 12 M-4 years </li>
+<li>Machine wash</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby T-shirt</s:tag>
+    <s:tag>girls summer tshirt</s:tag>
+    <s:tag>girls tshirt</s:tag>
+    <s:tag>short sleeve tshirt</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483286470756</id>
+      <title>9-12 months / pink</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483286470756</id>
+      <title>9-12 months / green</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483286470756</id>
+      <title>9-12 months / light pink</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483286470756</id>
+      <title>9-12 months / gray</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483286470756</id>
+      <title>1-2years / pink</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483286470756</id>
+      <title>1-2years / green</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483286470756</id>
+      <title>1-2years / light pink</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483286470756</id>
+      <title>1-2years / gray</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483286470756</id>
+      <title>2-3years / pink</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483286470756</id>
+      <title>2-3years / green</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483286470756</id>
+      <title>2-3years / light pink</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483286470756</id>
+      <title>2-3years / gray</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483286470756</id>
+      <title>3-4years / pink</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483286470756</id>
+      <title>3-4years / green</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483286470756</id>
+      <title>3-4years / light pink</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3483286470756</id>
+      <title>3-4years / gray</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3479399137380</id>
+    <published>2019-05-13T21:07:06-04:00</published>
+    <updated>2019-05-13T21:07:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/legend-bikes-1"/>
+    <title>Legend Bikes</title>
+    <s:type>Baby T-shirt</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/legend-bikes-493833.jpg?v=1587947598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>Baby T-shirt<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SPECIFICATIONS</strong></p>
+<ul>
+<li>100 % Cotton</li>
+<li>Short Sleeves</li>
+<li>Crew Neck</li>
+<li>Graphic Design </li>
+<li>Sizes 12 m-3 T</li>
+<li>Machine wash</li>
+<li>Imported</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby clothes</s:tag>
+    <s:tag>Baby T-shirt</s:tag>
+    <s:tag>boys apparel</s:tag>
+    <s:tag>boys cotton tshirt</s:tag>
+    <s:tag>Boys Tees</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3479399137380</id>
+      <title>1-2years</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3405659144292</id>
+    <published>2019-04-30T00:09:19-04:00</published>
+    <updated>2019-04-30T00:09:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/pink-flower-t-shirt"/>
+    <title>Girls&apos; Pink Flower T-shirt</title>
+    <s:type>Baby T-shirt</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/girls-pink-flower-t-shirt-179340.jpg?v=1587947532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>Baby T-shirt<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<h2><strong>SPECIFICATIONS</strong></h2>
+<ul>
+<li>90% Cotton</li>
+<li>10% Polyester</li>
+<li>Short Sleeves</li>
+<li>Crew Neck</li>
+<li>Flower Print</li>
+<li>Sizes 9 m-5 years</li>
+<li>Machine wash</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby clothes</s:tag>
+    <s:tag>girls apparel</s:tag>
+    <s:tag>Girls Cute Tshirt</s:tag>
+    <s:tag>Girls elegant tshirt</s:tag>
+    <s:tag>Girls Short sleeve Tshirt</s:tag>
+    <s:tag>Girls Summer t-shirt</s:tag>
+    <s:tag>Girls T-shirt</s:tag>
+    <s:tag>summer t-shirt</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3405659144292</id>
+      <title>9Months</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3405659144292</id>
+      <title>12Months</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3405659144292</id>
+      <title>18Months</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3405659144292</id>
+      <title>3years</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3405659144292</id>
+      <title>4years</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3405659144292</id>
+      <title>5years</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3380064518244</id>
+    <published>2019-04-25T20:20:23-04:00</published>
+    <updated>2019-04-25T20:20:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-top-and-bottom-set-1"/>
+    <title>Boys&apos; Top and Bottom Set</title>
+    <s:type>Baby Cloth</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-top-and-bottom-set-706000.jpg?v=1587947456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>Baby Cloth<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="descriptionAndDetails" class="a-section a-spacing-extra-large">
+<div id="dp_productDescription_container_div" class="feature" data-feature-name="productDescription" data-cel-widget="dp_productDescription_container_div">
+<div id="productDescription_feature_div" data-feature-name="productDescription" data-template-name="productDescription" class="a-row feature" data-cel-widget="productDescription_feature_div">
+<p id="productDescription" class="a-section a-spacing-small"><em><strong></strong></em> Specification:</p>
+</div>
+</div>
+</div>
+<ul>
+<li>2 Piece Set</li>
+<li>Short-sleeve T-shirt </li>
+<li>Sequin guitar </li>
+<li>Denim Shorts</li>
+<li>Machine wash</li>
+<li>Imported</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby boys bottom set</s:tag>
+    <s:tag>Bottom Set</s:tag>
+    <s:tag>Boys&apos; Top Bottom Set</s:tag>
+    <s:tag>Top &amp; Bottom Set</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3380064518244</id>
+      <title>9 m-1year</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3380064518244</id>
+      <title>1-2 years</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3380064518244</id>
+      <title>2-3 years</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3380064518244</id>
+      <title>4-5years</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3378571411556</id>
+    <published>2019-04-25T11:43:13-04:00</published>
+    <updated>2019-04-25T11:43:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-unknown-t-shirt"/>
+    <title>Boys&apos; T-Shirt</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-t-shirt-533416.jpg?v=1587947459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> <strong>SPECIFICATIONS</strong></p>
+<ul>
+<li>90 % cotton</li>
+<li>10 % polyester</li>
+<li>Short Sleeves</li>
+<li>Crew Neck</li>
+<li>Graphic design </li>
+<li>Machine wash</li>
+<li>Imported</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Half-sleeve T-shirt</s:tag>
+    <s:tag>Kids T-shirt</s:tag>
+    <s:tag>Sport T-shirt</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3378571411556</id>
+      <title>18Months</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3378571411556</id>
+      <title>3years</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3378571411556</id>
+      <title>4years</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3378571411556</id>
+      <title>5 years</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3378571411556</id>
+      <title>6 years</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3378571411556</id>
+      <title>7 years</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3374710849636</id>
+    <published>2019-04-24T23:15:46-04:00</published>
+    <updated>2019-04-24T23:15:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-stripe-short-sleeve-t-shirt"/>
+    <title>Boys&apos; Stripe Short Sleeve T-shirt</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-stripe-short-sleeve-t-shirt-193126.jpg?v=1587947395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SPECIFICATIONS</strong><br></p>
+<ul>
+<li>100 % cotton</li>
+<li>Short Sleeves</li>
+<li>White &amp; gray stripes </li>
+<li>Crew neck</li>
+<li>Graphic design </li>
+<li>Sizes 18 M - 7 years </li>
+<li>Machine Wash</li>
+<li>Imported</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby apparel</s:tag>
+    <s:tag>baby clothes</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3374710849636</id>
+      <title>12-18 Months</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3374710849636</id>
+      <title>2-3 years</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3374710849636</id>
+      <title>3-4years</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3374710849636</id>
+      <title>4-5 years</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3374710849636</id>
+      <title>5-6years</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3374710849636</id>
+      <title>6-7years</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3374655537252</id>
+    <published>2019-04-24T23:09:34-04:00</published>
+    <updated>2019-04-24T23:09:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-free-t-shirt"/>
+    <title>Boys&apos; Free T-shirt</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-free-t-shirt-193576.jpg?v=1587947408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            7.50 - 8.50
+            <a href="https://elmasclothing.myshopify.com/products/boys-free-t-shirt">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<h2><strong>SPECIFICATIONS</strong></h2>
+<ul>
+<li>100 % cotton</li>
+<li>Short-sleeve T-shirt</li>
+<li>Graphic design </li>
+<li>Regular fit</li>
+<li>Sizes 18M- 7 years </li>
+<li>Machine wash</li>
+<li>Imported</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boys apparel</s:tag>
+    <s:tag>boys short sleeve tshirt</s:tag>
+    <s:tag>boys t-shirt</s:tag>
+    <s:tag>cotton T-shirt</s:tag>
+    <s:tag>summer t-shirt</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3374655537252</id>
+      <title>18Months</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3374655537252</id>
+      <title>3years</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3374655537252</id>
+      <title>4years</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3374655537252</id>
+      <title>5years</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3374655537252</id>
+      <title>6years</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3374655537252</id>
+      <title>7years</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3366769492068</id>
+    <published>2019-04-23T12:27:05-04:00</published>
+    <updated>2019-04-23T12:27:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/printed-short-sleeve-t-shirt"/>
+    <title>Printed Short Sleeve T-shirt</title>
+    <s:type>Baby T-shirt</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/printed-short-sleeve-t-shirt-637756.jpg?v=1587947585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>Baby T-shirt<br>
+        <strong>Price: </strong>
+            7.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> <strong>SPECIFICATIONS</strong></p>
+<ul>
+<li>90% Cotton</li>
+<li>10 % Polyester</li>
+<li>Short Sleeves</li>
+<li>Crew Neck</li>
+<li>Graphic Design </li>
+<li>Machine Wash</li>
+<li>Imported </li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boys apparel</s:tag>
+    <s:tag>boys cotton tshirt</s:tag>
+    <s:tag>Boys T-shirt</s:tag>
+    <s:tag>Boys Tees</s:tag>
+    <s:tag>cotton T-shirt</s:tag>
+    <s:tag>short sleeve T-shirt</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366769492068</id>
+      <title>4-5 years / green</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366769492068</id>
+      <title>4-5years / white</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366769492068</id>
+      <title>4-5T / red</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366769492068</id>
+      <title>4-5T / pink</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366769492068</id>
+      <title>5-6years / green</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366769492068</id>
+      <title>5-6years / white</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366769492068</id>
+      <title>5-6years / red</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366769492068</id>
+      <title>5-6years / pink</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366769492068</id>
+      <title>6-7years / green</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366769492068</id>
+      <title>6-7years / white</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366769492068</id>
+      <title>6-7years / red</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366769492068</id>
+      <title>6-7years / pink</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366769492068</id>
+      <title>7-8years / green</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366769492068</id>
+      <title>7-8years / white</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366769492068</id>
+      <title>7-8years / red</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366769492068</id>
+      <title>7-8years / pink</title>
+      <s:price currency="USD">7.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3366672924772</id>
+    <published>2019-04-23T11:54:03-04:00</published>
+    <updated>2019-04-23T11:54:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-short-sleeve-t-shirt-1"/>
+    <title>Boys&apos; Short Sleeve T-Shirt</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-short-sleeve-t-shirt-318019.jpg?v=1587947411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><strong>Specification</strong></em>:<br></p>
+<ul>
+<li>Imported</li>
+<li>100% cotton</li>
+<li>Short Sleeves</li>
+<li>Crew Neck</li>
+<li>Graphic design</li>
+<li>Sizes 5-8 years </li>
+<li>Embossed Design </li>
+<li>Machine wash</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boys t-shirt</s:tag>
+    <s:tag>boys tshirt</s:tag>
+    <s:tag>cotton T-shirt</s:tag>
+    <s:tag>summer t-shirt</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366672924772</id>
+      <title>5 years</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366672924772</id>
+      <title>6years</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366672924772</id>
+      <title>7years</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366672924772</id>
+      <title>8years</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3366556663908</id>
+    <published>2019-04-23T11:19:49-04:00</published>
+    <updated>2019-04-23T11:19:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-short-sleeve-t-shirt-jpg"/>
+    <title>Boys Short Sleeve T-shirt</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-short-sleeve-t-shirt-669441.jpg?v=1587947419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<h3><span><em><strong>Specification</strong></em>:<br></span></h3>
+<ul>
+<li><span>90 % Cotton</span></li>
+<li>10 % Cotton</li>
+<li>Short Sleeve</li>
+<li>Crew Neck</li>
+<li>Embossed Letters</li>
+<li>Graphic Design</li>
+<li>Sizes 5-8 years</li>
+<li>Machine wash</li>
+<li>Imported</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boys gray t-shirt</s:tag>
+    <s:tag>boys pink tshirt</s:tag>
+    <s:tag>boys red tshirt</s:tag>
+    <s:tag>boys summer Tshirt</s:tag>
+    <s:tag>boys tees</s:tag>
+    <s:tag>boys tshirt</s:tag>
+    <s:tag>T-shirt</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366556663908</id>
+      <title>4-5years / pink</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366556663908</id>
+      <title>4-5years / gray</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366556663908</id>
+      <title>5-6years / red</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366556663908</id>
+      <title>5-6years / pink</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366556663908</id>
+      <title>5-6years / gray</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366556663908</id>
+      <title>6-7years / red</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366556663908</id>
+      <title>6-7years / pink</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366556663908</id>
+      <title>6-7years / gray</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366556663908</id>
+      <title>7-8years / red</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366556663908</id>
+      <title>7-8years / pink</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3366556663908</id>
+      <title>7-8years / gray</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3362311536740</id>
+    <published>2019-04-22T20:53:30-04:00</published>
+    <updated>2019-04-22T20:53:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/girls-dream-forever-t-shirt"/>
+    <title>Girls&apos; Short-Sleeve T-Shirt</title>
+    <s:type>Baby T-shirt</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/girls-short-sleeve-t-shirt-756953.jpg?v=1587947580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>Baby T-shirt<br>
+        <strong>Price: </strong>
+            8.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SPECIFICATIONS</strong><br></p>
+<ul>
+<li>90% cotton</li>
+<li>10% Polyester </li>
+<li>Short Sleeves </li>
+<li>Crew Neck</li>
+<li>Graphic Design </li>
+<li>Machine wash</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby clothes</s:tag>
+    <s:tag>Baby dress</s:tag>
+    <s:tag>cotton T-shirt</s:tag>
+    <s:tag>girl&apos;s T-shirt</s:tag>
+    <s:tag>girls apparel</s:tag>
+    <s:tag>Girls Short sleeve Tshirt</s:tag>
+    <s:tag>girls top</s:tag>
+    <s:tag>summer t-shirt</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3362311536740</id>
+      <title>4-5years / white</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3362311536740</id>
+      <title>4-5years / pink</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3362311536740</id>
+      <title>4-5years / green</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3362311536740</id>
+      <title>5-6years / white</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3362311536740</id>
+      <title>5-6years / pink</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3362311536740</id>
+      <title>5-6years / green</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3362311536740</id>
+      <title>6-7years / white</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3362311536740</id>
+      <title>6-7years / pink</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3362311536740</id>
+      <title>6-7years / green</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3362311536740</id>
+      <title>7-8years / white</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3362311536740</id>
+      <title>7-8years / pink</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3362311536740</id>
+      <title>7-8years / green</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3343021768804</id>
+    <published>2019-04-18T02:47:09-04:00</published>
+    <updated>2019-04-18T02:47:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/bonjour-t-shirt"/>
+    <title>Girls&apos; Bonjour Top</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/girls-bonjour-top-525274.jpg?v=1587947518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Details</p>
+<ul>
+<li>Soft Cotton Blend</li>
+<li>Short  Sleeves</li>
+<li>Crew neck </li>
+<li>Sizes 5-8 years</li>
+<li>Machine wash</li>
+<li>Imported</li>
+</ul>
+<br><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3343021768804</id>
+      <title>5years / Brown</title>
+      <s:price currency="USD">11.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3343021768804</id>
+      <title>5years / White</title>
+      <s:price currency="USD">11.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3343021768804</id>
+      <title>6years / Brown</title>
+      <s:price currency="USD">11.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3343021768804</id>
+      <title>6years / White</title>
+      <s:price currency="USD">11.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3343021768804</id>
+      <title>7years / Brown</title>
+      <s:price currency="USD">11.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3343021768804</id>
+      <title>7years / White</title>
+      <s:price currency="USD">11.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3343021768804</id>
+      <title>8years / Brown</title>
+      <s:price currency="USD">11.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3343021768804</id>
+      <title>8years / White</title>
+      <s:price currency="USD">11.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3333782569060</id>
+    <published>2019-04-15T15:35:41-04:00</published>
+    <updated>2019-04-15T15:35:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/black-tie-set"/>
+    <title>Black Bow Tie Set for Boys</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/black-bow-tie-set-for-boys-651099.jpg?v=1596547375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SPECIFICATION:</strong><br></p>
+<ul>
+<li>Short Sleeves Shirt</li>
+<li>Pre-tied Bow Tie with Elastic Strap</li>
+<li>Belt and Pants</li>
+<li>Cotton/ Polyester blend </li>
+<li>Machine Wash</li>
+<li>Imported</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3333782569060</id>
+      <title>9-12Months</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3333782569060</id>
+      <title>1-2 years</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3198684954724</id>
+    <published>2019-03-29T00:14:16-04:00</published>
+    <updated>2019-03-29T00:14:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/boys-sailing-t-shirts"/>
+    <title>Boys Sailing T-shirts</title>
+    <s:type>T-shirt</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/boys-sailing-t-shirts-418783.jpg?v=1587947420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>T-shirt<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="background-color: transparent; color: #212b36; font-family: -apple-system,BlinkMacSystemFont,San Francisco,Roboto,Segoe UI,Helvetica Neue,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; line-height: 19.6px; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px; margin: 0px 0px 14px 0px;"><br><strong style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', Roboto, 'Segoe UI', 'Helvetica Neue', sans-serif; font-size: 1.4em;">Specification:</strong><br></p>
+<ul>
+<li>100% Cotton </li>
+<li>Short Sleeve</li>
+<li>Crew Neck</li>
+<li>Sizes 9-12 years</li>
+<li>Machine wash</li>
+<li>Imported </li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baby T-shirt</s:tag>
+    <s:tag>boys blue t-shirt</s:tag>
+    <s:tag>boys cotton tshirt</s:tag>
+    <s:tag>cotton T-shirt</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3198684954724</id>
+      <title>8-9 years / light blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3198684954724</id>
+      <title>8-9 years / yellow</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3198684954724</id>
+      <title>8-9 years / gray</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3198684954724</id>
+      <title>9-10 years / navy blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3198684954724</id>
+      <title>9-10 years / light blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3198684954724</id>
+      <title>9-10 years / yellow</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3198684954724</id>
+      <title>9-10 years / gray</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3198684954724</id>
+      <title>10-11 years / navy blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3198684954724</id>
+      <title>10-11 years / light blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3198684954724</id>
+      <title>10-11 years / yellow</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3198684954724</id>
+      <title>10-11 years / gray</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3198684954724</id>
+      <title>11-12 years / navy blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3198684954724</id>
+      <title>11-12 years / light blue</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3198684954724</id>
+      <title>11-12 years / yellow</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3198684954724</id>
+      <title>11-12 years / gray</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3171492593764</id>
+    <published>2019-03-25T16:58:41-04:00</published>
+    <updated>2019-03-25T16:58:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/yellow-pearl-top"/>
+    <title>Girls Top with Pearls</title>
+    <s:type>Girl Top</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/girls-top-with-pearls-496474.jpg?v=1587947479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>Girl Top<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3></h3>
+<div class="a-section a-spacing-medium a-spacing-top-small">
+<p> <strong>SPECIFICATION</strong></p>
+</div>
+<ul>
+<li>Long Sleeve top <br>
+</li>
+<li>Light Chiffon Fabric </li>
+<li>Embellished with rhinestones </li>
+<li>Lacy Design </li>
+<li>Sizes 2-9 years </li>
+<li>Machine Wash </li>
+<li>Imported </li>
+</ul>
+<br>
+<p> </p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby clothes</s:tag>
+    <s:tag>girls apparel</s:tag>
+    <s:tag>Top</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3171492593764</id>
+      <title>2-3years</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3171492593764</id>
+      <title>5-6years</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3171492593764</id>
+      <title>6-7years</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3171492593764</id>
+      <title>7-8years</title>
+      <s:price currency="USD">10.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3133937221732</id>
+    <published>2019-03-21T12:17:49-04:00</published>
+    <updated>2019-03-21T12:17:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/yellow-t-shirt"/>
+    <title>Girls&apos; Yellow Crew Neck Tank Top</title>
+    <s:type>Baby Top</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/girls-yellow-crew-neck-tank-top-353271.jpg?v=1587947601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>Baby Top<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<h2><strong>SPECIFICATIONS</strong></h2>
+<ul>
+<li>100 % cotton </li>
+<li>Sleeveless </li>
+<li>Crew neck </li>
+<li>Crochet bottom</li>
+<li>Sizes 5-8 years</li>
+<li>Regular fit</li>
+<li>Machine wash</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby clothes</s:tag>
+    <s:tag>girls apparel</s:tag>
+    <s:tag>Girls T-shirt</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3133937221732</id>
+      <title>4-5years</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3133937221732</id>
+      <title>5-6years</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3133937221732</id>
+      <title>6-7years</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3133937221732</id>
+      <title>7-8years</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3133680353380</id>
+    <published>2019-03-21T11:45:32-04:00</published>
+    <updated>2019-03-21T11:45:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/white-loving-everyday-t-shirt"/>
+    <title>White Loving Everyday T-shirt</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/white-loving-everyday-t-shirt-633138.jpg?v=1587947641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> <strong>SPECIFICATIONS</strong></p>
+<ul>
+<li>100% cotton</li>
+<li>Sleeveless </li>
+<li>Crew Neck</li>
+<li>Crochet Bottom </li>
+<li>Graphic design </li>
+<li>Sizes 5-8 years</li>
+<li>Machine Wash</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3133680353380</id>
+      <title>4-5years</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3133680353380</id>
+      <title>5-6years</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3133680353380</id>
+      <title>6-7years</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3133680353380</id>
+      <title>7-8years</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3133504323684</id>
+    <published>2019-03-21T11:29:35-04:00</published>
+    <updated>2019-03-21T11:29:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/pink-loving-everyday-t-shirt"/>
+    <title>Girls Sleeveless Pink T-shirt</title>
+    <s:type>Girl Dress</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/girls-sleeveless-pink-t-shirt-382041.jpg?v=1587947479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>Girl Dress<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong></strong></h3>
+<p> </p>
+<h2><strong>SPECIFICATIONS</strong></h2>
+<ul>
+<li>100% cotton</li>
+<li>Sleeveless </li>
+<li>Crew Neck</li>
+<li>Crochet Bottom </li>
+<li>Graphic design </li>
+<li>Sizes 5-8 years</li>
+<li>Regular fit</li>
+<li>Machine Wash</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Girls Pink Top</s:tag>
+    <s:tag>girls sleeveless top</s:tag>
+    <s:tag>Girls Sleeveless Tshirt</s:tag>
+    <s:tag>Girls Summer t-shirt</s:tag>
+    <s:tag>girls T-shirt</s:tag>
+    <s:tag>summer t-shirt</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3133504323684</id>
+      <title>4-5years</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3133504323684</id>
+      <title>5-6years</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3133504323684</id>
+      <title>6-7years</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3133504323684</id>
+      <title>7-8years</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/3127750131812</id>
+    <published>2019-03-20T23:12:21-04:00</published>
+    <updated>2019-03-20T23:12:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/pink-rose-set"/>
+    <title>Pink Rose Set With Capri Pants</title>
+    <s:type>Baby Cloth</s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/pink-rose-set-with-capri-pants-728096.jpg?v=1587947596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong>Baby Cloth<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3></h3>
+<p> <strong>SPECIFICATIONS</strong></p>
+<ul>
+<li>3 Piece Set</li>
+<li>Sleeveless Chiffon Top </li>
+<li>Cotton lining</li>
+<li>Back Zip</li>
+<li>Round Neck</li>
+<li>Pink Capri with a belt</li>
+<li>Sizes 9M-4 years</li>
+<li>Machine Wash</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby apparel</s:tag>
+    <s:tag>Baby Girls Set</s:tag>
+    <s:tag>girls apparel</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3127750131812</id>
+      <title>9-12 Months</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3127750131812</id>
+      <title>1-2Years</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3127750131812</id>
+      <title>2-3 Years</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/3127750131812</id>
+      <title>3-4Years</title>
+      <s:price currency="USD">22.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

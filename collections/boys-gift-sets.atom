@@ -1,0 +1,1220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://elmasclothing.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://elmasclothing.myshopify.com/collections/boys-gift-sets.atom"/>
+  <title>Elma&apos;s Clothing</title>
+  <updated>2021-07-10T17:10:42-04:00</updated>
+  <author>
+    <name>Elma&apos;s Clothing</name>
+  </author>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4492482740335</id>
+    <published>2021-07-10T17:10:42-04:00</published>
+    <updated>2021-07-10T17:10:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/baby-boys-time-to-sleep-set"/>
+    <title>Baby Boys Time to Sleep Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_6545.jpg?v=1592493526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-single__description rte">
+<p><strong>SPECIFICATION:</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>5 Piece set </li>
+<li>Cap, Bib &amp; Mittens </li>
+<li>Footed pants and long sleeve shirt </li>
+<li>Machine wash</li>
+<li>Imported</li>
+</ul>
+</div>
+<div class="collapsibles-wrapper collapsibles-wrapper--border-bottom"><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4492482740335</id>
+      <title>0-3 months</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/6715909931119</id>
+    <published>2021-07-09T01:30:02-04:00</published>
+    <updated>2021-07-09T01:30:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/love-my-baby-blue-set"/>
+    <title>Love my Baby Blue Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9514.jpg?v=1625808429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1">Soft 100% Cotton Fabric </li>
+<li data-mce-fragment="1">9 Piece set </li>
+<li data-mce-fragment="1">Receiving blanket</li>
+<li data-mce-fragment="1">Bodysuit, cap, bib </li>
+<li data-mce-fragment="1">Inner Shirt, mittens &amp; burp cloth</li>
+<li data-mce-fragment="1">Footed pants and long sleeve shirt </li>
+<li data-mce-fragment="1">Machine Wash</li>
+<li data-mce-fragment="1">Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby clothes</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/6715909931119</id>
+      <title>0-3 months</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/6715904098415</id>
+    <published>2021-07-09T00:44:07-04:00</published>
+    <updated>2021-07-09T00:44:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/baby-sailor-9-piece-set"/>
+    <title>Baby Sailor 9 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_9499.jpg?v=1625805407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATION:</strong></h3>
+<ul data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Soft 100% Cotton Fabric </li>
+<li data-mce-fragment="1">9 Piece set </li>
+<li data-mce-fragment="1">Receiving blanket</li>
+<li data-mce-fragment="1">Bodysuit, cap, bib </li>
+<li data-mce-fragment="1">Inner Shirt, mittens &amp; burp cloth</li>
+<li data-mce-fragment="1">Footed pants and long sleeve shirt </li>
+<li data-mce-fragment="1">Machine Wash</li>
+<li data-mce-fragment="1">Imported</li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/6715904098415</id>
+      <title>0-3 months / light blue</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/6715904098415</id>
+      <title>0-3 months / dark blue</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4456467431535</id>
+    <published>2021-07-06T21:14:44-04:00</published>
+    <updated>2021-07-06T21:14:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/baby-girls-10-piece-set"/>
+    <title>Baby&apos;s 10 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/baby-girls-10-piece-set-259781.jpg?v=1610207041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-single__description rte">
+<p><strong>Specification:</strong></p>
+<ul>
+<li>Imported</li>
+<li>10-Piece set</li>
+<li>100% Cotton</li>
+<li>Machine wash</li>
+<li>Receiving blanket</li>
+<li>Bodysuit, cap, bib </li>
+<li>Light Cotton Vest &amp; mittens</li>
+<li>Footed pants and long sleeve shirt </li>
+<li>Undershirt &amp; Burp cloth </li>
+</ul>
+</div>
+<div class="collapsibles-wrapper collapsibles-wrapper--border-bottom"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4456467431535</id>
+      <title>0-3 months / Blue</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4527494201455</id>
+    <published>2021-06-30T20:11:50-04:00</published>
+    <updated>2021-06-30T20:11:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/baby-boys-royal-blue-10-piece-set"/>
+    <title>Baby Boys Royal Blue 10 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_7936_edited-1.jpg?v=1598296829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>SPECIFICATION:</strong></h3>
+<ul>
+<ul>
+<li>100% Cotton</li>
+<li>10 Piece set </li>
+<li>Receiving blanket</li>
+<li>Long Sleeve Footie</li>
+<li>Bodysuit, cap, bib </li>
+<li>Shoes, mittens &amp; burp cloth</li>
+<li>Footed pants and long sleeve shirt </li>
+<li>Hand wash</li>
+<li>Imported</li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4527494201455</id>
+      <title>0-3 months</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/6711749574767</id>
+    <published>2021-06-30T18:19:10-04:00</published>
+    <updated>2021-06-30T18:19:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/baby-newborn-outfit"/>
+    <title>Baby Newborn Outfit</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_2267.jpg?v=1625091469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATION:</strong></h3>
+<ul data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">100% Cotton</li>
+<li data-mce-fragment="1">10 Piece set </li>
+<li data-mce-fragment="1">Receiving blanket</li>
+<li data-mce-fragment="1">Long Sleeve Footie</li>
+<li data-mce-fragment="1">Bodysuit, cap, bib </li>
+<li data-mce-fragment="1">Shoes, mittens &amp; burp cloth</li>
+<li data-mce-fragment="1">Footed pants and long sleeve shirt </li>
+<li data-mce-fragment="1">Hand wash</li>
+<li data-mce-fragment="1">Imported</li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/6711749574767</id>
+      <title>0-3 months</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4444221538415</id>
+    <published>2021-04-21T14:24:30-04:00</published>
+    <updated>2021-04-21T14:24:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/baby-boys-4-piece-bathrobe-set"/>
+    <title>Baby Boys 3 Piece Bathrobe Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/baby-boys-4-piece-bathrobe-set-884589.jpg?v=1588749925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Specifications</strong> </p>
+<ul>
+<li>3 Piece Set</li>
+<li>Head Towel </li>
+<li>Sleepers</li>
+<li>Bathrobe </li>
+<li>100% cotton</li>
+<li>Size 0-12 months</li>
+<li>Machine wash</li>
+<li>Imported</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4444221538415</id>
+      <title>0-12 months</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4462334771311</id>
+    <published>2021-01-09T10:31:27-05:00</published>
+    <updated>2021-01-09T10:31:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/baby-boys-crown-bathrobe-set"/>
+    <title>Baby Boys Crown Bathrobe Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/baby-boys-crown-bathrobe-set-333585.jpg?v=1589942961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Specifications</strong> </p>
+<ul>
+<li>4 Piece Set </li>
+<li>100% cotton</li>
+<li>Towel </li>
+<li>Sleepers</li>
+<li>Washcloth</li>
+<li>Bathrobe </li>
+<li>Size 0-12 months</li>
+<li>Machine wash</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4462334771311</id>
+      <title>0-12 months</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4605849075823</id>
+    <published>2020-12-21T07:08:40-05:00</published>
+    <updated>2020-12-21T07:08:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/crown-body-suits"/>
+    <title>Crown Body Suits</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_EBAAB529A663-1_19a923a4-5b97-4676-84c6-47be60317694.jpg?v=1608552509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-mce-fragment="1"><strong data-mce-fragment="1">SPECIFICATION:</strong></h3>
+<ul data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">100% Cotton</li>
+<li data-mce-fragment="1">12 Piece Set</li>
+<li data-mce-fragment="1">Long Sleeve Bodysuits<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Round Neckline</li>
+<li data-mce-fragment="1">Sizes 1-12 months </li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported</li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4605849075823</id>
+      <title>1-12 months</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4562012242031</id>
+    <published>2020-09-15T21:16:02-04:00</published>
+    <updated>2020-09-15T21:16:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/baby-sleeping-sack-fall-winter"/>
+    <title>Baby Sleeping Sack Fall/ Winter</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_8429.jpg?v=1602783134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Specifications </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">One Piece </li>
+<li data-mce-fragment="1">100% Cotton</li>
+<li data-mce-fragment="1">Hooded Sleeping Sack</li>
+<li data-mce-fragment="1">Snap Closure </li>
+<li data-mce-fragment="1">Lined with Laces</li>
+<li data-mce-fragment="1">Great for Cool Weathers </li>
+<li data-mce-fragment="1">Sizes 0-9 months</li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4562012242031</id>
+      <title>0-6 months / blue</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4561876484207</id>
+    <published>2020-09-15T17:52:44-04:00</published>
+    <updated>2020-09-15T17:52:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/baby-sleeping-sack"/>
+    <title>Baby Sleeping Sack</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_8412.jpg?v=1610206650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Specifications </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">One Piece </li>
+<li data-mce-fragment="1">100% Cotton</li>
+<li data-mce-fragment="1">Footed Sleeping Sack</li>
+<li data-mce-fragment="1">Hooded </li>
+<li data-mce-fragment="1">Snap Closure </li>
+<li data-mce-fragment="1">Lined with Laces</li>
+<li data-mce-fragment="1">Great for Cool Weathers </li>
+<li data-mce-fragment="1">Sizes 0-9 months</li>
+<li data-mce-fragment="1">Machine wash</li>
+<li data-mce-fragment="1">Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4561876484207</id>
+      <title>0-6 months / blue</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4528183214191</id>
+    <published>2020-08-25T19:37:31-04:00</published>
+    <updated>2020-08-25T19:37:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/light-blue-baby-set"/>
+    <title>Light Blue Baby Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_7967.jpg?v=1598398652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>SPECIFICATION:</strong></h3>
+<ul>
+<ul>
+<li>Soft 100% Cotton Fabric </li>
+<li>10 Piece set </li>
+<li>Receiving blanket</li>
+<li>Long Sleeve Footie</li>
+<li>Bodysuit, cap, bib </li>
+<li>Shoes, mittens &amp; burp cloth</li>
+<li>Footed pants and long sleeve shirt </li>
+<li>Hand Wash</li>
+<li>Imported</li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby</s:tag>
+    <s:tag>baby clothes</s:tag>
+    <s:tag>baby sets</s:tag>
+    <s:tag>newborn</s:tag>
+    <s:tag>newborn clothes</s:tag>
+    <s:tag>newborn homecoming clothes</s:tag>
+    <s:tag>newborn outfits</s:tag>
+    <s:tag>newborn sets</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4528183214191</id>
+      <title>0-3 months</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4528179478639</id>
+    <published>2020-08-25T19:10:24-04:00</published>
+    <updated>2020-08-25T19:10:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/baby-boys-10-piece-set"/>
+    <title>Baby Boys 10 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_7938.jpg?v=1598399141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>SPECIFICATION:</strong></h3>
+<ul>
+<ul>
+<li>Soft 100% Cotton Fabric </li>
+<li>10 Piece set </li>
+<li>Receiving blanket</li>
+<li>Long Sleeve Footie</li>
+<li>Bodysuit, cap, bib </li>
+<li>Shoes, mittens &amp; burp cloth</li>
+<li>Footed pants and long sleeve shirt </li>
+<li>Hand wash</li>
+<li>Imported</li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BABY Bodysuits Set</s:tag>
+    <s:tag>baby clothes</s:tag>
+    <s:tag>newborn</s:tag>
+    <s:tag>newborn clothes</s:tag>
+    <s:tag>newborn homecoming clothes</s:tag>
+    <s:tag>newborn outfits</s:tag>
+    <s:tag>newborn sets</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4528179478639</id>
+      <title>0-3 months</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4525203292271</id>
+    <published>2020-08-18T04:17:37-04:00</published>
+    <updated>2020-08-18T04:17:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/babys-3-piece-sleeping-bag-with-blanket"/>
+    <title>Baby&apos;s 3 Piece Sleeping Bag with Blanket</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_7889.jpg?v=1624913768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Specifications </p>
+<ul>
+<li>3 Piece Set</li>
+<li>Baby Spleeping bag</li>
+<li>Pillow</li>
+<li>Recieving Blanket </li>
+<li>Soft Cotton Fabric</li>
+<li>Sizes 0-6 months</li>
+<li>Machine wash</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4525203292271</id>
+      <title>0-3 months</title>
+      <s:price currency="USD">43.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4515490037871</id>
+    <published>2020-07-29T06:27:03-04:00</published>
+    <updated>2020-07-29T06:27:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/white-baptism-towels"/>
+    <title>White Baptism Towels</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_7296.jpg?v=1596018424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Specifications</strong> </p>
+<ul>
+<li>90% cotton</li>
+<li>10% mircrofiber</li>
+<li>Head Towel 30x30 in.</li>
+<li>Size 0-12 months</li>
+<li>Machine wash</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4515490037871</id>
+      <title>0-12 months / silver</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4515490037871</id>
+      <title>0-12 months / gold</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4515482271855</id>
+    <published>2020-07-29T05:48:14-04:00</published>
+    <updated>2020-07-29T05:48:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/baby-towels-for-baptism"/>
+    <title>Baby Towels for Baptism</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_7323.jpg?v=1619030323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Specifications</strong> </p>
+<ul>
+<li>90% cotton</li>
+<li>10% mircrofiber</li>
+<li>Head Towel 30x30 in.</li>
+<li>Size 0-12 months</li>
+<li>Machine wash</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4515482271855</id>
+      <title>0-12 months / silver</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4514762293359</id>
+    <published>2020-07-27T21:16:34-04:00</published>
+    <updated>2020-07-27T21:16:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/light-blue-baby-5-piece-set"/>
+    <title>Light Blue Baby 5-Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_6939.jpg?v=1595898995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Specifications</p>
+<ul>
+<li>5 Piece Set </li>
+<li>Footie &amp; Mittens</li>
+<li>Cap, Shoes &amp; Vest  </li>
+<li>Size 0-3 months</li>
+<li>Machine wash<br>
+</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4514762293359</id>
+      <title>0-3 months</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4514752462959</id>
+    <published>2020-07-27T20:50:27-04:00</published>
+    <updated>2020-07-27T20:50:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/baby-boys-beige-set"/>
+    <title>Baby Boys Beige Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_6943_edited-1.jpg?v=1595897428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Specifications</p>
+<ul>
+<li>5 Piece Set </li>
+<li>Footie &amp; Mittens</li>
+<li>Cap, Shoes &amp; Vest  </li>
+<li>Size 0-3 months</li>
+<li>Machine wash<br>
+</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4514752462959</id>
+      <title>0-3 months</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4512652492911</id>
+    <published>2020-07-23T07:22:08-04:00</published>
+    <updated>2020-07-23T07:22:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/baby-boys-5-piece-set-1"/>
+    <title>Baby Boys 5 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_6949.jpg?v=1595503329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Specifications</p>
+<ul>
+<li>5 Piece Set </li>
+<li>Footie &amp; Mittens</li>
+<li>Cap, Shoes &amp; Vest  </li>
+<li>Size 0-3 months</li>
+<li>Machine wash<br>
+</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4512652492911</id>
+      <title>0-3 months</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4512646234223</id>
+    <published>2020-07-23T06:58:28-04:00</published>
+    <updated>2020-07-23T06:58:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/newborn-royal-blue-set"/>
+    <title>Newborn Royal Blue Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_6932.jpg?v=1595503130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Specifications</p>
+<ul>
+<li>5 Piece Set </li>
+<li>Footie &amp; Mittens</li>
+<li>Cap, Shoes &amp; Vest  </li>
+<li>Size 0-3 months</li>
+<li>Machine wash<br>
+</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4512646234223</id>
+      <title>0-3 months</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4494415036527</id>
+    <published>2020-06-22T15:34:39-04:00</published>
+    <updated>2020-06-22T15:34:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/baby-boys-crown-set-1"/>
+    <title>Baby Boys Crown Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_3247copy.jpg?v=1595035295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>SPECIFICATION:</strong></h3>
+<ul>
+<ul>
+<li>100% Cotton</li>
+<li>10 Piece set </li>
+<li>Receiving blanket</li>
+<li>Long Sleeve Footie</li>
+<li>Bodysuit, cap, bib </li>
+<li>Shoes, mittens &amp; burp cloth</li>
+<li>Footed pants and long sleeve shirt </li>
+<li>Hand wash</li>
+<li>Imported</li>
+<li>Not for everyday use </li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4494415036527</id>
+      <title>0-3 months</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4492527665263</id>
+    <published>2020-06-18T12:21:18-04:00</published>
+    <updated>2020-06-18T12:21:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/baby-boys-light-blue-crown-set"/>
+    <title>Baby Boys Light Blue Crown Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_6972.jpg?v=1595471413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>SPECIFICATION:</strong></h3>
+<ul>
+<ul>
+<li>100% Cotton</li>
+<li>4 Piece set </li>
+<li>Long Sleeve Footie </li>
+<li>Shoes, mittens &amp; cap</li>
+<li>Hand wash</li>
+<li>Imported</li>
+<li>Not for eveyday use </li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4492527665263</id>
+      <title>0-3 months</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4492525174895</id>
+    <published>2020-06-18T11:56:46-04:00</published>
+    <updated>2020-06-18T11:56:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/baby-boys-crown-set"/>
+    <title>Baby Boys Crown Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_6969.jpg?v=1595471308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>SPECIFICATION:</strong></h3>
+<ul>
+<ul>
+<li>100% Cotton</li>
+<li>4 Piece set </li>
+<li>Long Sleeve Footie </li>
+<li>Shoes, mittens &amp; cap</li>
+<li>Hand wash</li>
+<li>Imported</li>
+<li>Not for eveyday use </li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4492525174895</id>
+      <title>0-3 Months</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4486133579887</id>
+    <published>2020-06-10T16:23:45-04:00</published>
+    <updated>2020-06-10T16:23:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/newborn-welcome-home-bedding-set"/>
+    <title>Newborn Welcome Home Bedding Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/IMG_6470.jpg?v=1592307517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Specifications </p>
+<ul>
+<li>3 Piece Set</li>
+<li>Baby Spleeping bag</li>
+<li>Recieving Blanket </li>
+<li>Soft Pillow</li>
+<li>Cotton Fabric </li>
+<li>Sizes 0-6 months</li>
+<li>Machine wash</li>
+<li>Imported </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baby</s:tag>
+    <s:tag>baby bedding</s:tag>
+    <s:tag>newborn</s:tag>
+    <s:tag>newborn bedding</s:tag>
+    <s:tag>newborn blanket</s:tag>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4486133579887</id>
+      <title>0-6months</title>
+      <s:price currency="USD">66.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://elmasclothing.myshopify.com/products/4471549165679</id>
+    <published>2020-05-27T11:31:55-04:00</published>
+    <updated>2020-05-27T11:31:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://elmasclothing.myshopify.com/products/baby-boys-5-piece-set"/>
+    <title>Baby Boys 5 Piece Set</title>
+    <s:type></s:type>
+    <s:vendor>Elma&apos;s Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0105/8396/5796/products/baby-boys-5-piece-set-246018.jpg?v=1590596889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elma&#39;s Clothing<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SPECIFICATION:</strong></p>
+<ul>
+<li>100% Cotton</li>
+<li>5 Piece set </li>
+<li>Cap, Bib &amp; Mittens </li>
+<li>Footed pants and long sleeve shirt </li>
+<li>Machine wash</li>
+<li>Imported</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://elmasclothing.myshopify.com/products/4471549165679</id>
+      <title>0-3 months</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>
